@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c0b5351-320e-4ce4-86ca-41516a46c0f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/front/wa-client/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/front/wa-client/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/wa-client/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/front/wa-client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/src/assets/styles/_v.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/front/wa-client/src/main.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/wa-client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/front/wa-client/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LESJA1eCNPvu88xB5qTQWo9Uom" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c0b5351-320e-4ce4-86ca-41516a46c0f0" name="Default Changelist" comment="" />
+      <created>1675434675901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675434675901</updated>
+      <workItem from="1675434677803" duration="3000" />
+    </task>
+    <servers />
+  </component>
+</project>
