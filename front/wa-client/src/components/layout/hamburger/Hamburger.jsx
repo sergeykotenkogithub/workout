@@ -14,7 +14,7 @@ const Hamburger = () => {
 			<button onClick={() => setIsShow(!isShow)}>
 				{isShow ? <IoClose color='white' /> : <CgMenuRight color='white' />}
 			</button>
-			<Menu isShow={isShow} />
+			<Menu isShow={isShow} setIsShow={setIsShow} />
 		</div>
 	)
 }
