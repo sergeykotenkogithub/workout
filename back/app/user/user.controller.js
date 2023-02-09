@@ -47,7 +47,7 @@ export const getUserProfile = asyncHandler(async (req, res) => {
 				label: 'Minutes',
 				value: Math.ceil(countExerciseTimesCompleted * 2.3) || 0
 			},
-			{ label: 'Workouts', workouts },
+			{ label: 'Workouts', value: workouts },
 			{ label: 'Kgs', value: kgs._sum.weight || 0 }
 		]
 	})
